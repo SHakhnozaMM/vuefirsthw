@@ -1,0 +1,23 @@
+body{
+  background: blue;
+  height: 100vh;  
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.input{
+
+}
+.green{
+    background: green;
+}
+.red{
+    background: red;
+}
+.orange{
+    background: orange;
+}
